@@ -1,2 +1,4 @@
 # recommender
-Recommender system for movies
+
+Content-based recommender model for movies
+
