@@ -1,6 +1,7 @@
 # movie_recommender
 
 Content-based recommender using Natural Language Processing (NLP)
+
 A guide to build a content-based movie recommender model based on NLP
 
 In this article, I have combined movie attributes such as genre, plot, director and main actors to calculate its cosine similarity with another movie. The dataset is IMDB top 250 English movies downloaded from data.world.
